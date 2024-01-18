@@ -1,0 +1,2 @@
+for index, value in enumerate(line_011):
+    print(f"Index: {index}, Value: {value}")
